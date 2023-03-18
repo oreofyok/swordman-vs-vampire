@@ -79,7 +79,7 @@ def eye_draw():
         print("p", end=" ")
     print()
 
-eye_draw()
+
 def initial():
   global swordman ; global vampire ;global r
   global option ; global debuff ;global passer
