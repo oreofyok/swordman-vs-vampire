@@ -79,6 +79,7 @@ def eye_draw():
         print("p", end=" ")
     print()
 
+# this is b1 branch
 
 def initial():
   global swordman ; global vampire ;global r
@@ -87,6 +88,7 @@ def initial():
   global stage ; global sdr;global dr
   global passer2 ; global multi
   global multy ; global sw_name ; global vp_name
+  
   print()
   print("Welcome to swordman vs vampire!!!")
    
