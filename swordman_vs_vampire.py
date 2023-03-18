@@ -93,6 +93,7 @@ def initial():
   sw_name = "" ; vp_name = ""
   
   time.sleep(1)
+  
   print()
   sword = sword_draw()
   while len(sw_name) == 0:
